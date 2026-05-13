@@ -55,4 +55,5 @@ O objetivo consiste em maximizar retorno utilizando categorias já rentáveis en
 
 # 🖼 Dashboard
 
-![Dashboard](images/dashboard1.png)
+![Dashboard](analise-receita-cancelamentos-amazon
+/images/dashboard1)
