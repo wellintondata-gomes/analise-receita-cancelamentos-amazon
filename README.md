@@ -55,4 +55,4 @@ O objetivo consiste em maximizar retorno utilizando categorias já rentáveis en
 
 # 🖼 Dashboard
 
-![Dashboard](images/dashboard 1.png)
+![Dashboard](images/dashboard.png)
