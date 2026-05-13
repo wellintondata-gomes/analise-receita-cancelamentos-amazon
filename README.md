@@ -1,3 +1,7 @@
+# 🖼 Dashboard
+
+![Dashboard](images/dashboard.png)
+
 # 📊 Análise de Receita e Cancelamentos | E-commerce Amazon
 
 Projeto de análise de dados desenvolvido em Power BI com foco na identificação de prejuízos operacionais, análise de cancelamentos e geração de insights estratégicos para tomada de decisão.
@@ -53,6 +57,4 @@ O objetivo consiste em maximizar retorno utilizando categorias já rentáveis en
 
 ---
 
-# 🖼 Dashboard
 
-![Dashboard](images/dashboard.png)
